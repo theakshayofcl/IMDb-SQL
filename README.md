@@ -1,4 +1,4 @@
-<h2>Customer Shopping Insights </h2>
+<h2>IMDb SQL </h2>
 <h3>Project Summary:</h3>
 <p>
 In this project, I worked with the IMDB dataset to analyze movies and directors using SQL.
